@@ -13,7 +13,3 @@ We study how the brain builds predictions that support homeostasis, and we devel
 ## Get involved
 See **[Join Us](https://thebowenlab.org/join/)** on the website for current opportunities.
 
-## Featured repositories
-- Lab website
-- Core analysis pipelines
-- Datasets / resources
