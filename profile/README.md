@@ -3,7 +3,6 @@
 We study how the brain builds predictions that support homeostasis, and we develop open-source datasets and models for rodent behavior.
 
 **Website:** https://thebowenlab.org  
-**Contact:** abowen5 [at] uw [dot] edu
 
 ## Research
 - Predictive regulation and homeostasis
