@@ -8,7 +8,7 @@ We study how the brain builds predictions that support homeostasis, and we devel
 ## Research
 - Predictive regulation and homeostasis
 - Neural and behavioral modeling
-- Open datasets, algoriths and pipelines
+- Open datasets, algorithms and pipelines
 
 ## Get involved
 See **[Join Us](https://thebowenlab.org/join/)** on the website for current opportunities.
