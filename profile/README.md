@@ -6,9 +6,9 @@ We study how the brain builds predictions that support homeostasis, and we devel
 **Contact:** abowen5 [at] uw [dot] edu
 
 ## Research
-- Predictive regulation / homeostasis
-- Neural + behavioral modeling
-- Open datasets & modules / pipelines
+- Predictive regulation and homeostasis
+- Neural and behavioral modeling
+- Open datasets, algoriths and pipelines
 
 ## Get involved
 See **[Join Us](https://thebowenlab.org/join/)** on the website for current opportunities.
